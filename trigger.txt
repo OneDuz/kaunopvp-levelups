@@ -1,0 +1,5 @@
+lib.callback('one-codes:levels:AddXP',source,function() end,
+500, -- how much i forgur
+false, -- if admin?
+"Del turfo" -- reason
+)
